@@ -24,16 +24,9 @@
 |---------|-------------|
 | **[phlo](https://github.com/iamgp/phlo)** | Modern data lakehouse platform built on Dagster, DLT, Iceberg, Nessie, and dbt with decorator-driven development and write-audit-publish patterns |
 | **[dash_dashkit](https://github.com/iamgp/dash_dashkit)** | Production-ready UI components for Dash applications with modern dashboard styling and configurable layouts |
-| **[logpulse](https://github.com/iamgp/logpulse)** | Go-based web UI for open-telemetry logs |
-| **[hvr](https://github.com/iamgp/hvr)** | A pip/npm-like registry for Hamilton Venus |
-| **[hamilton-venv](https://github.com/iamgp/hamilton-venv)** | A Hamilton Venus environment manager, like pip/npm |
-| **[phlo-examples](https://github.com/iamgp/phlo-examples)** | Example projects and patterns for phlo |
 | **[ducklake-setup](https://github.com/iamgp/ducklake-setup)** | DuckLake setup and configuration utilities |
 | **[alloykit](https://github.com/iamgp/alloykit)** | Toolkit for Alloy development |
-| **[github-dashboard-extension](https://github.com/iamgp/github-dashboard-extension)** | GitHub dashboard browser extension |
 | **[OpenDiscovery](https://github.com/iamgp/OpenDiscovery)** | Open discovery framework |
-| **[pyPDB](https://github.com/iamgp/pyPDB)** | Python PDB class utilities |
-| **[pyCa](https://github.com/iamgp/pyCa)** | Python cryptography utilities |
 
 ---
 
