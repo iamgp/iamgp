@@ -1,8 +1,8 @@
-# Hey, I'm Gareth 👋
+# Hi, I'm Gareth
 
-📍 **Oxford, UK**  |  💻 **Principal Scientist** (Lab Automation & Data Engineering)  |  🌙 **iOS & Full Stack Developer**
+**Oxford, UK** · Principal Scientist (Lab Automation & Data Engineering) · iOS & Full Stack Developer
 
-> Lab automation and data engineering systems. 25+ years of experience in science and programming, building infrastructure that scales scientific innovation and discovery.
+> 25+ years building lab automation, data engineering systems, and developer tools that scale scientific innovation and discovery.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
@@ -18,40 +18,40 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Data & Infrastructure
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| **[phlo](https://github.com/phlohouse/phlo)** | Modern data lakehouse platform — plugin-driven, storage-agnostic, with decorator-driven ingestion and write-audit-publish patterns | Python |
-| **[phlo-examples](https://github.com/phlohouse/phlo-examples)** | Standalone example projects for Phlo (Nightscout, GitHub, Pokemon, DuckDB) | Python |
-| **[website](https://github.com/phlohouse/website)** | Phlo website and plugin registry at phlohouse.com | TypeScript |
-| **[stencil](https://github.com/phlohouse/stencil)** | Lay a template over a spreadsheet, extract structured data — editor app + Python library with Pydantic models | TypeScript / Python |
-| **[pdfrag](https://github.com/iamgp/pdfrag)** | Local-first PDF and Markdown indexing with semantic search and citation-ready answers via Ollama + DuckDB | Go |
-| **[ducklake-setup](https://github.com/iamgp/ducklake-setup)** | Interactive installer for DuckLake with PostgreSQL catalog and MinIO object storage | Shell |
+| Project                                                         | Description                                                                                                                        | Language            |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **[phlo](https://github.com/phlohouse/phlo)**                   | Modern data lakehouse platform — plugin-driven, storage-agnostic, with decorator-driven ingestion and write-audit-publish patterns | Python              |
+| **[phlo-examples](https://github.com/phlohouse/phlo-examples)** | Standalone example projects for Phlo (Nightscout, GitHub, Pokemon, DuckDB)                                                         | Python              |
+| **[website](https://github.com/phlohouse/website)**             | Phlo website and plugin registry at phlohouse.com                                                                                  | TypeScript          |
+| **[stencil](https://github.com/phlohouse/stencil)**             | Lay a template over a spreadsheet, extract structured data — editor app + Python library with Pydantic models                      | TypeScript / Python |
+| **[pdfrag](https://github.com/iamgp/pdfrag)**                   | Local-first PDF and Markdown indexing with semantic search and citation-ready answers via Ollama + DuckDB                          | Go                  |
+| **[ducklake-setup](https://github.com/iamgp/ducklake-setup)**   | Interactive installer for DuckLake with PostgreSQL catalog and MinIO object storage                                                | Shell               |
 
 ### Developer Tools
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| **[helm](https://github.com/iamgp/helm)** | Local project dashboard that discovers, analyzes, and tracks all your git repos — single binary at localhost:7777 | Go |
-| **[cairn](https://github.com/iamgp/cairn)** | GitHub Action that turns CI outputs into a historical report on gh-pages with PR comments | Go |
-| **[alloykit](https://github.com/iamgp/alloykit)** | Single-file installer for a complete observability stack (Grafana, Prometheus, Loki, Alloy) | Shell |
-| **[dash_dashkit](https://github.com/iamgp/dash_dashkit)** | Production-ready UI components for Dash applications with modern dashboard styling | CSS / Python |
+| Project                                                   | Description                                                                                                       | Language     |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[helm](https://github.com/iamgp/helm)**                 | Local project dashboard that discovers, analyzes, and tracks all your git repos — single binary at localhost:7777 | Go           |
+| **[cairn](https://github.com/iamgp/cairn)**               | GitHub Action that turns CI outputs into a historical report on gh-pages with PR comments                         | Go           |
+| **[alloykit](https://github.com/iamgp/alloykit)**         | Single-file installer for a complete observability stack (Grafana, Prometheus, Loki, Alloy)                       | Shell        |
+| **[dash_dashkit](https://github.com/iamgp/dash_dashkit)** | Production-ready UI components for Dash applications with modern dashboard styling                                | CSS / Python |
 
 ### Lab Automation
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| **[OpenDiscovery](https://github.com/iamgp/OpenDiscovery)** | Open discovery framework | Python |
-| **[pyCa](https://github.com/iamgp/pyCa)** | Python calcium analysis | Python |
-| **[pyPDB](https://github.com/iamgp/pyPDB)** | Python PDB class | Python |
+| Project                                                     | Description              | Language |
+| ----------------------------------------------------------- | ------------------------ | -------- |
+| **[OpenDiscovery](https://github.com/iamgp/OpenDiscovery)** | Open discovery framework | Python   |
+| **[pyCa](https://github.com/iamgp/pyCa)**                   | Python calcium analysis  | Python   |
+| **[pyPDB](https://github.com/iamgp/pyPDB)**                 | Python PDB class         | Python   |
 
 ---
 
 <p align="center">
-  <a href="https://github.com/iamgp">💻 GitHub</a> · 
-  <a href="https://twitter.com/iamgp">𝕏 Twitter</a> · 
-  <a href="https://linkedin.com/in/iamgp">💼 LinkedIn</a>
+  <a href="https://github.com/iamgp">GitHub</a> · 
+  <a href="https://twitter.com/iamgp">Twitter</a> · 
+  <a href="https://linkedin.com/in/iamgp">LinkedIn</a>
 </p>
