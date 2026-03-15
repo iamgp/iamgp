@@ -20,13 +20,37 @@
 
 ## 🚀 Projects
 
-| Project | Description |
-|---------|-------------|
-| **[phlo](https://github.com/iamgp/phlo)** | Modern data lakehouse platform built on Dagster, DLT, Iceberg, Nessie, and dbt with decorator-driven development and write-audit-publish patterns |
-| **[dash_dashkit](https://github.com/iamgp/dash_dashkit)** | Production-ready UI components for Dash applications with modern dashboard styling and configurable layouts |
-| **[ducklake-setup](https://github.com/iamgp/ducklake-setup)** | DuckLake setup and configuration utilities |
-| **[alloykit](https://github.com/iamgp/alloykit)** | Toolkit for Alloy development |
-| **[OpenDiscovery](https://github.com/iamgp/OpenDiscovery)** | Open discovery framework |
+### Data & Infrastructure
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[phlo](https://github.com/phlohouse/phlo)** | Modern data lakehouse platform — plugin-driven, storage-agnostic, with decorator-driven ingestion and write-audit-publish patterns | Python |
+| **[phlo-examples](https://github.com/phlohouse/phlo-examples)** | Standalone example projects for Phlo (Nightscout, GitHub, Pokemon, DuckDB) | Python |
+| **[website](https://github.com/phlohouse/website)** | Phlo website and plugin registry at phlohouse.com | TypeScript |
+| **[stencil](https://github.com/phlohouse/stencil)** | Lay a template over a spreadsheet, extract structured data — editor app + Python library with Pydantic models | TypeScript / Python |
+| **[pdfrag](https://github.com/iamgp/pdfrag)** | Local-first PDF and Markdown indexing with semantic search and citation-ready answers via Ollama + DuckDB | Go |
+| **[ducklake-setup](https://github.com/iamgp/ducklake-setup)** | Interactive installer for DuckLake with PostgreSQL catalog and MinIO object storage | Shell |
+
+### Developer Tools
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[helm](https://github.com/iamgp/helm)** | Local project dashboard that discovers, analyzes, and tracks all your git repos — single binary at localhost:7777 | Go |
+| **[cairn](https://github.com/iamgp/cairn)** | GitHub Action that turns CI outputs into a historical report on gh-pages with PR comments | Go |
+| **[alloykit](https://github.com/iamgp/alloykit)** | Single-file installer for a complete observability stack (Grafana, Prometheus, Loki, Alloy) | Shell |
+| **[logpulse](https://github.com/iamgp/logpulse)** | Go-based web UI for OpenTelemetry logs | Go |
+| **[dash_dashkit](https://github.com/iamgp/dash_dashkit)** | Production-ready UI components for Dash applications with modern dashboard styling | CSS / Python |
+| **[github-dashboard-extension](https://github.com/iamgp/github-dashboard-extension)** | Browser extension for GitHub dashboard | JavaScript |
+
+### Lab Automation
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[hvr](https://github.com/iamgp/hvr)** | A pip/npm-like package registry for Hamilton Venus | Go |
+| **[hamilton-venv](https://github.com/iamgp/hamilton-venv)** | Hamilton Venus environment manager, like pip/npm | Go |
+| **[OpenDiscovery](https://github.com/iamgp/OpenDiscovery)** | Open discovery framework | Python |
+| **[pyCa](https://github.com/iamgp/pyCa)** | Python calcium analysis | Python |
+| **[pyPDB](https://github.com/iamgp/pyPDB)** | Python PDB class | Python |
 
 ---
 
